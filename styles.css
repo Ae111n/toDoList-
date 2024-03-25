@@ -8,14 +8,14 @@
 .container{
 width: 100%;
 min-height: 100vh;
-background:linear-gradient(210deg,#2c0646 , #09396e);
+background:linear-gradient(210deg,#7a10c0 , #09396e);
 padding: 10px;
      
 }
 .todoapp{
 width: 100%;
 max-width: 540px;
-background: #9184d8;
+background: #b1bbf5;
 margin: 100px auto 20px;
 padding:40px 30px 70px;
 border-radius: 10px;
@@ -24,7 +24,7 @@ border-radius: 10px;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #3b215e;
+    background: #fafafa;
     border-radius: 30px;
     padding-left: 20px;
     margin-bottom: 25px;
